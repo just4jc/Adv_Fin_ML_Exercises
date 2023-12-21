@@ -24,3 +24,4 @@ fastparquet>=0.1.5
 watermark
 ffn
 missingno
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
